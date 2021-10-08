@@ -21,4 +21,4 @@ const user_color = prompt("Ho bisogno di sapere il tuo colore preferito")
 console.log("Colore preferito: " + user_color)
 
 //Mostra risultato combinazione
-document.getElementById("password_generata").innerHTML = "La tua password sconsigliata è: andrea" + user_name + user_surname + user_color + last_number
+document.getElementById("password_generata").innerHTML = "La tua password sconsigliata è: " + user_name + user_surname + user_color + last_number
