@@ -1,3 +1,7 @@
+/* Messaggio di informazione per l' utente */
+alert(`Questo sito ti aiuterà a generare la TUA password personale sconsigliata.
+    Premi Ok per continuare`);
+
 /* Numero finale della password genarata */
 let last_number = "21"
 
